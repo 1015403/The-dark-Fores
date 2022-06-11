@@ -1,0 +1,40 @@
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.home {
+    background-image: url("forest.png");
+}
+
+h1
+{
+    font-family: sans-serif;
+    font-size: 80px;
+    font-style: bold;
+    text-align: center;
+    margin-top: 200px;
+    color: #ffffff;
+}
+
+/* Button start pagina style */
+#start
+{
+    width:200px;
+    height:40px;
+    border:none;
+    border-radius:15px;
+    box-shadow:0px 0px 10px 3px rgba(0,0,0,0.2);
+    background-color:#ffffff;
+    font-size:32px;
+    cursor:hand;
+    cursor:pointer;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 43%;
+} 
+
+
+
